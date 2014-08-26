@@ -33,7 +33,7 @@ header img{
     margin-left:2.5%;
 }
 
-.copy{
+#copy{
     width:50%;
     float:left;
     margin-top:17.2%;
@@ -49,13 +49,13 @@ p{
     line-height:31px;
 }
     
-.smiley{
+#smiley{
     width:50%;
     float:right;
     margin-top:17.2%;
 }
     
-.smiley img{
+#smiley img{
     padding-left:4.1%;
     padding-right:4.1%;
     width:100%;
@@ -103,7 +103,7 @@ header img{
     margin-left:2.5%;
 }
 
-.copy{
+#copy{
     width:100%;
     margin-top:17.2%;
     float:none;
@@ -119,13 +119,13 @@ p{
     line-height:31px;
 }
     
-.smiley{
+#smiley{
     width:100%;
     margin-top:17.2%;
     float:none;
 }
     
-.smiley img{
+#smiley img{
     width:100%;
     padding:0;
 }
@@ -173,7 +173,7 @@ header img{
     margin-left:2.5%;
 }
 
-.copy{
+#copy{
     width:100%;
     margin-top:30%;
     float:none;
@@ -189,13 +189,13 @@ p{
     line-height:31px;
 }
     
-.smiley{
+#smiley{
     width:100%;
     margin-top:17.2%;
     float:none;
 }
     
-.smiley img{
+#smiley img{
     width:100%;
     padding:0;
     
@@ -244,7 +244,7 @@ header img{
     margin-left:2.5%;
 }
 
-.copy{
+#copy{
     width:100%;
     margin-top:45%;
     float:none;
@@ -260,13 +260,13 @@ p{
     line-height:31px;
 }
     
-.smiley{
+#smiley{
     width:100%;
     margin-top:17.2%;
     float:none;
 }
     
-.smiley img{
+#smiley img{
     width:100%;
     padding:0;
     
